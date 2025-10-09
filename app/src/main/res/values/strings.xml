@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Tikrai_antras</string>
+    <string name="app_name">Teksto Skaičiuoklė</string>
+    <string name="hint_enter_text">Įveskite tekstą čia</string>
+    <string name="button_calculate">Skaičiuoti</string>
+    <string name="text_initial_result">Rezultatas: 0</string>
+    <string name="toast_empty_input">Įveskite bent vieną žodį ar simbolį.</string>
+    <string-array name="count_types">
+        <item>Žodžiai</item>
+        <item>Simboliai</item>
+    </string-array>
 </resources>
